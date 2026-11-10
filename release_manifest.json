@@ -22,23 +22,23 @@
       "first_released": "2025-06-14",
       "last_release_tag": "v1.2.0",
       "artifact_checksum": "04b7c373c2509f3831d04885bc6a34377aa1f2d697b86b11f1fc2908a8195790",
-      "review_ticket": "REG-6029",
+      "review_ticket": "REG-9855",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 45229
+          "bytes": 43055
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 8829
+          "bytes": 9655
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6629
+          "bytes": 7455
         }
       ],
       "notes": "published artifact; audited in Q3."
@@ -54,23 +54,23 @@
       "first_released": "2025-08-09",
       "last_release_tag": "v1.0.4",
       "artifact_checksum": "c6f9ef6b3a25a281ffbd8c52fd26ca8aaad976ca0770e83d99d5b899b19566e8",
-      "review_ticket": "REG-9150",
+      "review_ticket": "REG-9519",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 44350
+          "bytes": 41719
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 9950
+          "bytes": 10319
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6750
+          "bytes": 7119
         }
       ],
       "notes": "v1 snapshot; replacement repository naming under discussion."
@@ -86,23 +86,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "a28043fe9fe37ed904c051b646f01d4293409ee17c7f19c3c74f8b22768edd17",
-      "review_ticket": "REG-4361",
+      "review_ticket": "REG-2678",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 41561
+          "bytes": 42878
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 9161
+          "bytes": 9478
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6461
+          "bytes": 6278
         }
       ],
       "notes": "reviewer preview build only while the paper is under review."
@@ -118,23 +118,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "d126c5f275df647a5a63a134a2d4ad362a6c0bc61441b7d9908b16de004a9e89",
-      "review_ticket": "REG-3278",
+      "review_ticket": "REG-9769",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 43478
+          "bytes": 45969
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 9078
+          "bytes": 10569
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6878
+          "bytes": 7369
         }
       ],
       "notes": "public release scheduled for 2026-11-02 pending acceptance."
@@ -150,23 +150,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "e7e547372479e5e147a156a61c3a0047d10fed47d607bc555e7a12b465ce3a99",
-      "review_ticket": "REG-6690",
+      "review_ticket": "REG-5348",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 41890
+          "bytes": 43548
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 10490
+          "bytes": 9148
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 7290
+          "bytes": 7448
         }
       ],
       "notes": "no implementation planned."
@@ -182,23 +182,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "da2b49829619baaf7b64b9de44e661ee7e8c300d9791830342617a511340bad2",
-      "review_ticket": "REG-7834",
+      "review_ticket": "REG-1965",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 42034
+          "bytes": 46165
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 10634
+          "bytes": 10765
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6934
+          "bytes": 7065
         }
       ],
       "notes": "related work reference only: third-party repository loukasa/graph-coarsening."
@@ -214,23 +214,23 @@
       "first_released": "2024-01-01",
       "last_release_tag": "v0.9.0",
       "artifact_checksum": "0e2a93345301b42af8d17287f439d36da282170ab8be8e17dc2b1511e53440b5",
-      "review_ticket": "REG-6819",
+      "review_ticket": "REG-9119",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 46019
+          "bytes": 41319
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 9619
+          "bytes": 8919
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 7419
+          "bytes": 6719
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -246,23 +246,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "f3994f77475d7689a404b793d14b4a53a3d3b3f8cd3f745ffe1f85e4721286b6",
-      "review_ticket": "REG-8824",
+      "review_ticket": "REG-5909",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 44024
+          "bytes": 44109
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 9624
+          "bytes": 10709
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6424
+          "bytes": 6509
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -278,23 +278,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "4df6ca2c6baa093b1f48176e02cd8d11b94a2d35934a4268eb3d47ba8cb114ef",
-      "review_ticket": "REG-8971",
+      "review_ticket": "REG-1786",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 46171
+          "bytes": 41986
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 9771
+          "bytes": 10586
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6571
+          "bytes": 6886
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -310,23 +310,23 @@
       "first_released": "2024-01-01",
       "last_release_tag": "v0.9.0",
       "artifact_checksum": "807034ff670e2867e09780512bbfad44e69110787dabd2d90006f80859165806",
-      "review_ticket": "REG-9100",
+      "review_ticket": "REG-4148",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 42300
+          "bytes": 41348
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 8900
+          "bytes": 9948
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6700
+          "bytes": 6248
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -342,23 +342,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "9b8456644bf192d184eba35fcd29f95d5291cc11247b2e19e273825fb8192a00",
-      "review_ticket": "REG-3779",
+      "review_ticket": "REG-4362",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 41979
+          "bytes": 42562
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 10579
+          "bytes": 9162
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 7379
+          "bytes": 6462
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -374,23 +374,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "4951db1a1f793243827bc8df83db35c106de994979cff56887df0c107f2e24f3",
-      "review_ticket": "REG-5788",
+      "review_ticket": "REG-4940",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 41988
+          "bytes": 45140
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 10588
+          "bytes": 10740
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6388
+          "bytes": 7040
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -406,23 +406,23 @@
       "first_released": "2024-01-01",
       "last_release_tag": "v0.9.0",
       "artifact_checksum": "b8ca5adbce155f95c5d8461c2d3c2c8b13fe9d4e0982456c9cabb961aad81373",
-      "review_ticket": "REG-1472",
+      "review_ticket": "REG-9318",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 43672
+          "bytes": 44518
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 10272
+          "bytes": 9118
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6572
+          "bytes": 6918
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -438,23 +438,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "ad241ed6582d5337a732ae2fc48ff264ae0ebaa67fd2f0c8d1d7bcc203e5bfc3",
-      "review_ticket": "REG-1677",
+      "review_ticket": "REG-9280",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 43877
+          "bytes": 45480
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 9477
+          "bytes": 9080
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6777
+          "bytes": 6880
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -470,23 +470,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "97b73c6f3b13ae5025ee2cfc12239ac3714e0c6a3257960610731430155ff958",
-      "review_ticket": "REG-1116",
+      "review_ticket": "REG-3812",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 42316
+          "bytes": 43012
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 8916
+          "bytes": 10612
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6216
+          "bytes": 7412
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -502,23 +502,23 @@
       "first_released": "2024-01-01",
       "last_release_tag": "v0.9.0",
       "artifact_checksum": "46d9625d7944b5721d8f7920cb5ac12a5398969cab121a3159990fd3ff676df2",
-      "review_ticket": "REG-7454",
+      "review_ticket": "REG-6577",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 41654
+          "bytes": 45777
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 9254
+          "bytes": 9377
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6554
+          "bytes": 7177
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -534,23 +534,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "6cb40206a3fb0b7428cc7327fbcf35dd64c372a23e3582dd2f03629431ee06fd",
-      "review_ticket": "REG-6044",
+      "review_ticket": "REG-9770",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 42244
+          "bytes": 42970
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 8844
+          "bytes": 10570
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6644
+          "bytes": 7370
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -566,23 +566,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "d8e9fa6497cbd205f3724179a9ee8754cc49cd16fc5c752f725288bda5c83b9d",
-      "review_ticket": "REG-2738",
+      "review_ticket": "REG-2329",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 45938
+          "bytes": 42529
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 9538
+          "bytes": 10129
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6338
+          "bytes": 7429
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -598,23 +598,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "33f2880a4a498865230eb2ec113562f0336a511efc45ec633f5fe84e5742429d",
-      "review_ticket": "REG-2142",
+      "review_ticket": "REG-3122",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 41342
+          "bytes": 45322
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 9942
+          "bytes": 9922
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 7242
+          "bytes": 6722
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -630,23 +630,23 @@
       "first_released": "2024-01-01",
       "last_release_tag": "v0.9.0",
       "artifact_checksum": "03741bc5eb3088ec2b7903dd38eaa287906493379f266f3e1aa96b360b3f3773",
-      "review_ticket": "REG-7356",
+      "review_ticket": "REG-1921",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 43556
+          "bytes": 43121
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 9156
+          "bytes": 10721
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6456
+          "bytes": 7021
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -662,23 +662,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "79c0f7ffe5b64ce6a0086a98f03fbccb181626fca5576ffc94be9007a904487e",
-      "review_ticket": "REG-5761",
+      "review_ticket": "REG-3491",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 41961
+          "bytes": 44691
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 9561
+          "bytes": 9291
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6361
+          "bytes": 7091
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -694,23 +694,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "45b596835f9e112916b3663e9698a8a6b6130f65e4e0c4a02bd9f1dfac589df6",
-      "review_ticket": "REG-2764",
+      "review_ticket": "REG-6669",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 42964
+          "bytes": 45869
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 10564
+          "bytes": 9469
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6364
+          "bytes": 7269
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -726,23 +726,23 @@
       "first_released": "2024-01-01",
       "last_release_tag": "v0.9.0",
       "artifact_checksum": "a9b0ac92d77c14eab2f3782df2eff2e224051d414e57af66a74590ae850d7fdf",
-      "review_ticket": "REG-1457",
+      "review_ticket": "REG-6407",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 43657
+          "bytes": 45607
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 10257
+          "bytes": 10207
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6557
+          "bytes": 7007
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -758,23 +758,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "2b3afc341dcdf9e7c67ffa9ffb4b42009886118206340e40147bf8c185a92c17",
-      "review_ticket": "REG-6885",
+      "review_ticket": "REG-6320",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 42085
+          "bytes": 45520
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 10685
+          "bytes": 9120
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 7485
+          "bytes": 6920
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -790,23 +790,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "e6ae98ff43e6a5cd02085c097a01ad52fda21b161f88bfe032f115fb94fddcd1",
-      "review_ticket": "REG-5452",
+      "review_ticket": "REG-2869",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 44652
+          "bytes": 46069
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 9252
+          "bytes": 10669
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 7552
+          "bytes": 6469
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -822,23 +822,23 @@
       "first_released": "2024-01-01",
       "last_release_tag": "v0.9.0",
       "artifact_checksum": "406931d235d4040487d95a84b96a9a4c6f2f9f3cf657da155f3d9d4630194aa6",
-      "review_ticket": "REG-5330",
+      "review_ticket": "REG-2232",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 42530
+          "bytes": 43432
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 9130
+          "bytes": 10032
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 7430
+          "bytes": 7332
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -854,23 +854,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "6cc18e4b0e92370f9e6a1e41fdaf335d3601eaeaf24621e09917be821531b14a",
-      "review_ticket": "REG-6885",
+      "review_ticket": "REG-6809",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 45085
+          "bytes": 42009
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 9685
+          "bytes": 9609
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 7485
+          "bytes": 7409
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -886,23 +886,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "9b0cd492c4cb3003f71dabbf31b55c228836a1fed3b63147800ddc8be7990975",
-      "review_ticket": "REG-3941",
+      "review_ticket": "REG-3944",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 44141
+          "bytes": 43144
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 10741
+          "bytes": 9744
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 7541
+          "bytes": 7544
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -918,23 +918,23 @@
       "first_released": "2024-01-01",
       "last_release_tag": "v0.9.0",
       "artifact_checksum": "f76c8e3bb8649f51387e3dc2e2a87cd92dbc5539e34f6053c786b8b31f30b33d",
-      "review_ticket": "REG-8195",
+      "review_ticket": "REG-4388",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 45395
+          "bytes": 45588
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 8995
+          "bytes": 9188
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 7295
+          "bytes": 6488
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -950,23 +950,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "e70004aafaba05901bea67a8f587a32d787a8cd9aaf42e79dbbc21a00bb0abdb",
-      "review_ticket": "REG-4343",
+      "review_ticket": "REG-7264",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 45543
+          "bytes": 45464
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 10143
+          "bytes": 10064
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6443
+          "bytes": 6364
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -982,23 +982,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "90fd5d43f13e973a6d28f05fd1cc77ca8dda6526465ed752617c2af463c9cfd6",
-      "review_ticket": "REG-4511",
+      "review_ticket": "REG-2048",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 43711
+          "bytes": 42248
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 10311
+          "bytes": 8848
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6611
+          "bytes": 7148
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -1014,23 +1014,23 @@
       "first_released": "2024-01-01",
       "last_release_tag": "v0.9.0",
       "artifact_checksum": "615c9762f2064606a64118e017dcbb25a756919baf999d4d3b78e1e85158d2e2",
-      "review_ticket": "REG-2492",
+      "review_ticket": "REG-9963",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 44692
+          "bytes": 46163
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 9292
+          "bytes": 10763
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 7592
+          "bytes": 7563
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -1046,23 +1046,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "cb42391de8abab126d928026243e4e11056b400be7c5c28ebd43141e1f1631aa",
-      "review_ticket": "REG-5226",
+      "review_ticket": "REG-4424",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 45426
+          "bytes": 42624
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 10026
+          "bytes": 10224
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 7326
+          "bytes": 6524
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -1078,23 +1078,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "5f13f196394064b653d9b27359dcb0b867874033942024eba4c4469a2213ad0d",
-      "review_ticket": "REG-8546",
+      "review_ticket": "REG-3861",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 43746
+          "bytes": 46061
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 9346
+          "bytes": 9661
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6146
+          "bytes": 7461
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -1110,23 +1110,23 @@
       "first_released": "2024-01-01",
       "last_release_tag": "v0.9.0",
       "artifact_checksum": "cfa89bab9d235f111e71d0dcb0d3788b9a727c806d1a0bceccf8d9cc483d0264",
-      "review_ticket": "REG-1457",
+      "review_ticket": "REG-6880",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 42657
+          "bytes": 46080
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 10257
+          "bytes": 9680
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6557
+          "bytes": 7480
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -1142,23 +1142,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "188f23d374025b8afacef8888e9f1ca78ad15556923e8cc1d82ddfd014e1ed6a",
-      "review_ticket": "REG-9071",
+      "review_ticket": "REG-7478",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 44271
+          "bytes": 42678
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 9871
+          "bytes": 9278
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6671
+          "bytes": 6578
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -1174,23 +1174,23 @@
       "first_released": null,
       "last_release_tag": null,
       "artifact_checksum": "43142de09e552821bba1132c0df5a371131e2d3c406ef5e5ccea5bd56c770934",
-      "review_ticket": "REG-1761",
+      "review_ticket": "REG-7544",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 42961
+          "bytes": 44744
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 9561
+          "bytes": 9344
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6861
+          "bytes": 6644
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
@@ -1206,23 +1206,23 @@
       "first_released": "2024-01-01",
       "last_release_tag": "v0.9.0",
       "artifact_checksum": "669be169bc92ae6440bc56aadabe4388617adca828caca2952c79067628fbb2b",
-      "review_ticket": "REG-5786",
+      "review_ticket": "REG-9107",
       "last_audited": "2026-09-28",
       "file_inventory": [
         {
           "path": "src/",
           "entries": 3,
-          "bytes": 45986
+          "bytes": 44307
         },
         {
           "path": "data/",
           "entries": 2,
-          "bytes": 10586
+          "bytes": 9907
         },
         {
           "path": "experiments/",
           "entries": 2,
-          "bytes": 6386
+          "bytes": 6707
         }
       ],
       "notes": "historical registry entry refreshed during the quarterly audit."
