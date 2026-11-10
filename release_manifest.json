@@ -1,0 +1,1953 @@
+{
+  "schema_version": "3.2",
+  "generated_at": "2026-10-01T00:00:00Z",
+  "generated_by": "release-audit-bot",
+  "refresh_policy": "Point-in-time snapshot refreshed quarterly. This file is frozen at generated_at. Live status is maintained in the append-only status log of this repository.",
+  "owner_account": "wholetherapi",
+  "record_count": 38,
+  "maintainers": [
+    "p.carter",
+    "n.okafor",
+    "release-bot"
+  ],
+  "projects": [
+    {
+      "project_key": "halcyon",
+      "display_name": "HALCYON",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-pcarter-halcyon-solver-7f3c",
+      "repository_aliases": [],
+      "visibility": "public",
+      "release_state": "public",
+      "first_released": "2025-06-14",
+      "last_release_tag": "v1.2.0",
+      "artifact_checksum": "04b7c373c2509f3831d04885bc6a34377aa1f2d697b86b11f1fc2908a8195790",
+      "review_ticket": "REG-5002",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 43202
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9802
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 7102
+        }
+      ],
+      "notes": "published artifact; audited in Q3."
+    },
+    {
+      "project_key": "dragoneye",
+      "display_name": "DRAGONEYE",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-pcarter-dragoneye-kernels-v1-7f3c",
+      "repository_aliases": [],
+      "visibility": "public",
+      "release_state": "public",
+      "first_released": "2025-08-09",
+      "last_release_tag": "v1.0.4",
+      "artifact_checksum": "c6f9ef6b3a25a281ffbd8c52fd26ca8aaad976ca0770e83d99d5b899b19566e8",
+      "review_ticket": "REG-1226",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 43426
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 10026
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6326
+        }
+      ],
+      "notes": "v1 snapshot; replacement repository naming under discussion."
+    },
+    {
+      "project_key": "fenwick",
+      "display_name": "FENWICK",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-pcarter-fenwick-calibration-7f3c",
+      "repository_aliases": [],
+      "visibility": "public",
+      "release_state": "internal",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "a28043fe9fe37ed904c051b646f01d4293409ee17c7f19c3c74f8b22768edd17",
+      "review_ticket": "REG-9832",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 43032
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 10632
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 7432
+        }
+      ],
+      "notes": "reviewer preview build only while the paper is under review."
+    },
+    {
+      "project_key": "marrowwood",
+      "display_name": "MARROWWOD",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-pcarter-marrowwood-coarsening-7f3c",
+      "repository_aliases": [],
+      "visibility": "public",
+      "release_state": "scheduled",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "d126c5f275df647a5a63a134a2d4ad362a6c0bc61441b7d9908b16de004a9e89",
+      "review_ticket": "REG-5011",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 44211
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 8811
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 7111
+        }
+      ],
+      "notes": "public release scheduled for 2026-11-02 pending acceptance."
+    },
+    {
+      "project_key": "emberlight",
+      "display_name": "EMBERLIGHT",
+      "owner": "wholetherapi",
+      "repository": null,
+      "repository_aliases": [],
+      "visibility": null,
+      "release_state": "unreleased",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "e7e547372479e5e147a156a61c3a0047d10fed47d607bc555e7a12b465ce3a99",
+      "review_ticket": "REG-3180",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 42380
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9980
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6780
+        }
+      ],
+      "notes": "no implementation planned."
+    },
+    {
+      "project_key": "blackthorn",
+      "display_name": "BLACKTHORN",
+      "owner": "wholetherapi",
+      "repository": null,
+      "repository_aliases": [],
+      "visibility": null,
+      "release_state": "unreleased",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "da2b49829619baaf7b64b9de44e661ee7e8c300d9791830342617a511340bad2",
+      "review_ticket": "REG-3263",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 41463
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9063
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6863
+        }
+      ],
+      "notes": "related work reference only: third-party repository loukasa/graph-coarsening."
+    },
+    {
+      "project_key": "bramblewick",
+      "display_name": "Bramblewick Bounds",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-bramblewick-7f3c",
+      "repository_aliases": [],
+      "visibility": "public",
+      "release_state": "public",
+      "first_released": "2024-01-01",
+      "last_release_tag": "v0.9.0",
+      "artifact_checksum": "0e2a93345301b42af8d17287f439d36da282170ab8be8e17dc2b1511e53440b5",
+      "review_ticket": "REG-3441",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 42641
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9241
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 7041
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "cinderfold",
+      "display_name": "Cinderfold Toolkit",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-cinderfold-7f3c",
+      "repository_aliases": [],
+      "visibility": "private",
+      "release_state": "internal",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "f3994f77475d7689a404b793d14b4a53a3d3b3f8cd3f745ffe1f85e4721286b6",
+      "review_ticket": "REG-1072",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 42272
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 8872
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6172
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "duskhollow",
+      "display_name": "Duskhollow Sampling",
+      "owner": "wholetherapi",
+      "repository": null,
+      "repository_aliases": [],
+      "visibility": null,
+      "release_state": "unreleased",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "4df6ca2c6baa093b1f48176e02cd8d11b94a2d35934a4268eb3d47ba8cb114ef",
+      "review_ticket": "REG-5333",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 45533
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9133
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 7433
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "evermoor",
+      "display_name": "Evermoor Estimators",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-evermoor-7f3c",
+      "repository_aliases": [],
+      "visibility": "public",
+      "release_state": "public",
+      "first_released": "2024-01-01",
+      "last_release_tag": "v0.9.0",
+      "artifact_checksum": "807034ff670e2867e09780512bbfad44e69110787dabd2d90006f80859165806",
+      "review_ticket": "REG-5804",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 46004
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9604
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6404
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "farrowgate",
+      "display_name": "Farrowgate Preconditioners",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-farrowgate-7f3c",
+      "repository_aliases": [],
+      "visibility": "private",
+      "release_state": "internal",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "9b8456644bf192d184eba35fcd29f95d5291cc11247b2e19e273825fb8192a00",
+      "review_ticket": "REG-4957",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 45157
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9757
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 7057
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "glimmerpost",
+      "display_name": "Glimmerpost Metrics",
+      "owner": "wholetherapi",
+      "repository": null,
+      "repository_aliases": [],
+      "visibility": null,
+      "release_state": "unreleased",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "4951db1a1f793243827bc8df83db35c106de994979cff56887df0c107f2e24f3",
+      "review_ticket": "REG-2109",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 44309
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9909
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 7209
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "harrowfen",
+      "display_name": "Harrowfen Datasets",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-harrowfen-7f3c",
+      "repository_aliases": [],
+      "visibility": "public",
+      "release_state": "public",
+      "first_released": "2024-01-01",
+      "last_release_tag": "v0.9.0",
+      "artifact_checksum": "b8ca5adbce155f95c5d8461c2d3c2c8b13fe9d4e0982456c9cabb961aad81373",
+      "review_ticket": "REG-7344",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 42544
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9144
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6444
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "inkwell",
+      "display_name": "Inkwell Drafts",
+      "owner": "wholetherapi",
+      "repository": null,
+      "repository_aliases": [],
+      "visibility": null,
+      "release_state": "unreleased",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "ad241ed6582d5337a732ae2fc48ff264ae0ebaa67fd2f0c8d1d7bcc203e5bfc3",
+      "review_ticket": "REG-5539",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 43739
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9339
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6139
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "jasperwind",
+      "display_name": "Jasperwind Sketches",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-jasperwind-7f3c",
+      "repository_aliases": [],
+      "visibility": "private",
+      "release_state": "internal",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "97b73c6f3b13ae5025ee2cfc12239ac3714e0c6a3257960610731430155ff958",
+      "review_ticket": "REG-5544",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 45744
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 10344
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6144
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "kestrelmoor",
+      "display_name": "Kestrelmoor Benchmarks",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-kestrelmoor-7f3c",
+      "repository_aliases": [],
+      "visibility": "public",
+      "release_state": "public",
+      "first_released": "2024-01-01",
+      "last_release_tag": "v0.9.0",
+      "artifact_checksum": "46d9625d7944b5721d8f7920cb5ac12a5398969cab121a3159990fd3ff676df2",
+      "review_ticket": "REG-5949",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 42149
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 10749
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6549
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "larkspur",
+      "display_name": "Larkspur Kernels",
+      "owner": "wholetherapi",
+      "repository": null,
+      "repository_aliases": [],
+      "visibility": null,
+      "release_state": "unreleased",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "6cb40206a3fb0b7428cc7327fbcf35dd64c372a23e3582dd2f03629431ee06fd",
+      "review_ticket": "REG-3856",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 43056
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 10656
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 7456
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "mistvale",
+      "display_name": "Mistvale Theory",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-mistvale-7f3c",
+      "repository_aliases": [],
+      "visibility": "private",
+      "release_state": "internal",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "d8e9fa6497cbd205f3724179a9ee8754cc49cd16fc5c752f725288bda5c83b9d",
+      "review_ticket": "REG-1086",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 43286
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 8886
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6186
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "nightjar",
+      "display_name": "Nightjar Compressors",
+      "owner": "wholetherapi",
+      "repository": null,
+      "repository_aliases": [],
+      "visibility": null,
+      "release_state": "unreleased",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "33f2880a4a498865230eb2ec113562f0336a511efc45ec633f5fe84e5742429d",
+      "review_ticket": "REG-5548",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 42748
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9348
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6148
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "opalridge",
+      "display_name": "Opalridge Calibration",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-opalridge-7f3c",
+      "repository_aliases": [],
+      "visibility": "public",
+      "release_state": "public",
+      "first_released": "2024-01-01",
+      "last_release_tag": "v0.9.0",
+      "artifact_checksum": "03741bc5eb3088ec2b7903dd38eaa287906493379f266f3e1aa96b360b3f3773",
+      "review_ticket": "REG-1372",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 42572
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 10172
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6472
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "pennant",
+      "display_name": "Pennant Solvers",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-pennant-7f3c",
+      "repository_aliases": [],
+      "visibility": "private",
+      "release_state": "internal",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "79c0f7ffe5b64ce6a0086a98f03fbccb181626fca5576ffc94be9007a904487e",
+      "review_ticket": "REG-1285",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 45485
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 10085
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6385
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "quietwater",
+      "display_name": "Quietwater Splits",
+      "owner": "wholetherapi",
+      "repository": null,
+      "repository_aliases": [],
+      "visibility": null,
+      "release_state": "unreleased",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "45b596835f9e112916b3663e9698a8a6b6130f65e4e0c4a02bd9f1dfac589df6",
+      "review_ticket": "REG-1274",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 45474
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 10074
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6374
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "rookwood",
+      "display_name": "Rookwood Graphs",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-rookwood-7f3c",
+      "repository_aliases": [],
+      "visibility": "public",
+      "release_state": "public",
+      "first_released": "2024-01-01",
+      "last_release_tag": "v0.9.0",
+      "artifact_checksum": "a9b0ac92d77c14eab2f3782df2eff2e224051d414e57af66a74590ae850d7fdf",
+      "review_ticket": "REG-2625",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 42825
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 10425
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6225
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "sablefield",
+      "display_name": "Sablefield Sampling",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-sablefield-7f3c",
+      "repository_aliases": [],
+      "visibility": "private",
+      "release_state": "internal",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "2b3afc341dcdf9e7c67ffa9ffb4b42009886118206340e40147bf8c185a92c17",
+      "review_ticket": "REG-5888",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 44088
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9688
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6488
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "thornbury",
+      "display_name": "Thornbury Tools",
+      "owner": "wholetherapi",
+      "repository": null,
+      "repository_aliases": [],
+      "visibility": null,
+      "release_state": "unreleased",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "e6ae98ff43e6a5cd02085c097a01ad52fda21b161f88bfe032f115fb94fddcd1",
+      "review_ticket": "REG-8952",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 44152
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9752
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6552
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "umbra",
+      "display_name": "Umbra Visualisation",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-umbra-7f3c",
+      "repository_aliases": [],
+      "visibility": "public",
+      "release_state": "public",
+      "first_released": "2024-01-01",
+      "last_release_tag": "v0.9.0",
+      "artifact_checksum": "406931d235d4040487d95a84b96a9a4c6f2f9f3cf657da155f3d9d4630194aa6",
+      "review_ticket": "REG-5923",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 42123
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9723
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6523
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "vexmoor",
+      "display_name": "Vexmoor Verification",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-vexmoor-7f3c",
+      "repository_aliases": [],
+      "visibility": "private",
+      "release_state": "internal",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "6cc18e4b0e92370f9e6a1e41fdaf335d3601eaeaf24621e09917be821531b14a",
+      "review_ticket": "REG-7104",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 43304
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 8904
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6204
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "willowfen",
+      "display_name": "Willowfen Workflows",
+      "owner": "wholetherapi",
+      "repository": null,
+      "repository_aliases": [],
+      "visibility": null,
+      "release_state": "unreleased",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "9b0cd492c4cb3003f71dabbf31b55c228836a1fed3b63147800ddc8be7990975",
+      "review_ticket": "REG-6263",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 41463
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9063
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6863
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "xanthe",
+      "display_name": "Xanthe Experiments",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-xanthe-7f3c",
+      "repository_aliases": [],
+      "visibility": "public",
+      "release_state": "public",
+      "first_released": "2024-01-01",
+      "last_release_tag": "v0.9.0",
+      "artifact_checksum": "f76c8e3bb8649f51387e3dc2e2a87cd92dbc5539e34f6053c786b8b31f30b33d",
+      "review_ticket": "REG-8223",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 45423
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9023
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 7323
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "yarrowgate",
+      "display_name": "Yarrowgate Analysis",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-yarrowgate-7f3c",
+      "repository_aliases": [],
+      "visibility": "private",
+      "release_state": "internal",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "e70004aafaba05901bea67a8f587a32d787a8cd9aaf42e79dbbc21a00bb0abdb",
+      "review_ticket": "REG-2445",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 43645
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9245
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 7545
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "zephyrline",
+      "display_name": "Zephyrline Pipelines",
+      "owner": "wholetherapi",
+      "repository": null,
+      "repository_aliases": [],
+      "visibility": null,
+      "release_state": "unreleased",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "90fd5d43f13e973a6d28f05fd1cc77ca8dda6526465ed752617c2af463c9cfd6",
+      "review_ticket": "REG-8254",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 44454
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9054
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 7354
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "ambercove",
+      "display_name": "Ambercove Archive",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-ambercove-7f3c",
+      "repository_aliases": [],
+      "visibility": "public",
+      "release_state": "public",
+      "first_released": "2024-01-01",
+      "last_release_tag": "v0.9.0",
+      "artifact_checksum": "615c9762f2064606a64118e017dcbb25a756919baf999d4d3b78e1e85158d2e2",
+      "review_ticket": "REG-4841",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 42041
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9641
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6941
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "basaltine",
+      "display_name": "Basaltine Baselines",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-basaltine-7f3c",
+      "repository_aliases": [],
+      "visibility": "private",
+      "release_state": "internal",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "cb42391de8abab126d928026243e4e11056b400be7c5c28ebd43141e1f1631aa",
+      "review_ticket": "REG-5916",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 43116
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9716
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6516
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "copperfell",
+      "display_name": "Copperfell Compilers",
+      "owner": "wholetherapi",
+      "repository": null,
+      "repository_aliases": [],
+      "visibility": null,
+      "release_state": "unreleased",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "5f13f196394064b653d9b27359dcb0b867874033942024eba4c4469a2213ad0d",
+      "review_ticket": "REG-4302",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 45502
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9102
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6402
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "driftmoor",
+      "display_name": "Driftmoor Diagnostics",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-driftmoor-7f3c",
+      "repository_aliases": [],
+      "visibility": "public",
+      "release_state": "public",
+      "first_released": "2024-01-01",
+      "last_release_tag": "v0.9.0",
+      "artifact_checksum": "cfa89bab9d235f111e71d0dcb0d3788b9a727c806d1a0bceccf8d9cc483d0264",
+      "review_ticket": "REG-8938",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 44138
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 10738
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6538
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "elmbourne",
+      "display_name": "Elmbourne Encoders",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-elmbourne-7f3c",
+      "repository_aliases": [],
+      "visibility": "private",
+      "release_state": "internal",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "188f23d374025b8afacef8888e9f1ca78ad15556923e8cc1d82ddfd014e1ed6a",
+      "review_ticket": "REG-5373",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 44573
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9173
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 7473
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "fennwick",
+      "display_name": "Fennwick Fixtures",
+      "owner": "wholetherapi",
+      "repository": null,
+      "repository_aliases": [],
+      "visibility": null,
+      "release_state": "unreleased",
+      "first_released": null,
+      "last_release_tag": null,
+      "artifact_checksum": "43142de09e552821bba1132c0df5a371131e2d3c406ef5e5ccea5bd56c770934",
+      "review_ticket": "REG-4014",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 45214
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 8814
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 6114
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    },
+    {
+      "project_key": "glasswing",
+      "display_name": "Glasswing Generators",
+      "owner": "wholetherapi",
+      "repository": "emails_github_fetch_playwright_with_chunk_filesystem_346-glasswing-7f3c",
+      "repository_aliases": [],
+      "visibility": "public",
+      "release_state": "public",
+      "first_released": "2024-01-01",
+      "last_release_tag": "v0.9.0",
+      "artifact_checksum": "669be169bc92ae6440bc56aadabe4388617adca828caca2952c79067628fbb2b",
+      "review_ticket": "REG-6626",
+      "last_audited": "2026-09-28",
+      "file_inventory": [
+        {
+          "path": "src/",
+          "entries": 3,
+          "bytes": 42826
+        },
+        {
+          "path": "data/",
+          "entries": 2,
+          "bytes": 9426
+        },
+        {
+          "path": "experiments/",
+          "entries": 2,
+          "bytes": 7226
+        }
+      ],
+      "notes": "historical registry entry refreshed during the quarterly audit."
+    }
+  ],
+  "audit_trail": [
+    {
+      "seq": 1,
+      "at": "2026-09-01T01:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "bramblewick",
+      "action": "record_verified",
+      "artifact_checksum": "7d2ae43a05364045238e759f7487a93813bbc20b899675f806f28c21ec79da86",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 2,
+      "at": "2026-09-02T02:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "cinderfold",
+      "action": "record_verified",
+      "artifact_checksum": "945fa28d61062641e3a4e9069d0fd08b0ce1ada08296d5557549edf98c51948f",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 3,
+      "at": "2026-09-03T03:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "duskhollow",
+      "action": "record_verified",
+      "artifact_checksum": "63bc276ba836afceb9e08e6ad6da856f05520cebe3b6c4e584ac0c8a8ab415bf",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 4,
+      "at": "2026-09-04T04:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "evermoor",
+      "action": "record_verified",
+      "artifact_checksum": "37b9462981416608599c483b1c050585a71de66dbbf5437f7f372e389650750e",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 5,
+      "at": "2026-09-05T05:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "farrowgate",
+      "action": "record_verified",
+      "artifact_checksum": "1f429ecf396d62a9e66e06a78ccd94f32bcdee8479405e4bf1a3f326276d4ec4",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 6,
+      "at": "2026-09-06T06:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "glimmerpost",
+      "action": "record_verified",
+      "artifact_checksum": "783a3233001a3483c27e6459964d5be612f82f0ae05bc3853c2e1ea7a20fcdc3",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 7,
+      "at": "2026-09-07T07:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "harrowfen",
+      "action": "record_verified",
+      "artifact_checksum": "8df155a36d9ddf2bc6030a0cd425b78587d298f515856de4135191572965de1e",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 8,
+      "at": "2026-09-08T08:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "inkwell",
+      "action": "record_verified",
+      "artifact_checksum": "1a1cc0592d20e1be1c3d35d17e6f232fda6b1274e1338cec7e0ac50a758b11df",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 9,
+      "at": "2026-09-09T09:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "jasperwind",
+      "action": "record_verified",
+      "artifact_checksum": "d8705273987e034776d394e654811f12665fcc3ad803188c7bc6fe21bfc151b8",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 10,
+      "at": "2026-09-10T01:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "kestrelmoor",
+      "action": "record_verified",
+      "artifact_checksum": "2520cab308a4919e09e44494c37826d0b1677646b890919779bb8fb555cc498f",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 11,
+      "at": "2026-09-11T02:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "larkspur",
+      "action": "record_verified",
+      "artifact_checksum": "f81423194d8f44fa8db4918fdfed79eed79d266f88ca2d51dcf91aa842bc36ab",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 12,
+      "at": "2026-09-12T03:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "mistvale",
+      "action": "record_verified",
+      "artifact_checksum": "611818230f1a75fe48a76587cdcbb5c54e10fa7a0d2d3e94afa73f9152b26f7f",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 13,
+      "at": "2026-09-13T04:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "nightjar",
+      "action": "record_verified",
+      "artifact_checksum": "167066b11d75c0ba90d4cc64f6f721d2cf598c1fa044acf0c8644fc3f28825ef",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 14,
+      "at": "2026-09-14T05:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "opalridge",
+      "action": "record_verified",
+      "artifact_checksum": "b28df06dc6be5c73d239aca6bafaf655a7dc260509dfc387e92be98d56ad9e55",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 15,
+      "at": "2026-09-15T06:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "pennant",
+      "action": "record_verified",
+      "artifact_checksum": "e5a5a29f8974b1df364e9aee267d8ccbe740ac6a77524c69a966ca6f973b714e",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 16,
+      "at": "2026-09-16T07:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "quietwater",
+      "action": "record_verified",
+      "artifact_checksum": "f9be7bf551e2d3e190bdcc3a45cf42c31efb0d807ef53085302f8f07ef21c056",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 17,
+      "at": "2026-09-17T08:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "rookwood",
+      "action": "record_verified",
+      "artifact_checksum": "a8f6a4d6e9cba1f95ee5d5e989e08617ce972d5539cd2111c24e6b403777fd03",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 18,
+      "at": "2026-09-18T09:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "sablefield",
+      "action": "record_verified",
+      "artifact_checksum": "fe343c750c09a8e1e0dacd05cda572ac20dd8d4b34d4b190b842f74cd2577229",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 19,
+      "at": "2026-09-19T01:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "thornbury",
+      "action": "record_verified",
+      "artifact_checksum": "63d2a6f500792b7727cf3fb264e2d63950abd24fef91438616c9090e49313187",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 20,
+      "at": "2026-09-20T02:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "umbra",
+      "action": "record_verified",
+      "artifact_checksum": "8a977eb55a959f5da901ef976610b7fa8bb0c44462ff06e1ac8622ebf1f8ac99",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 21,
+      "at": "2026-09-21T03:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "vexmoor",
+      "action": "record_verified",
+      "artifact_checksum": "db86f05db8e6911afc2a8fa9673f3749a3ee9a064ccbc1a6020dac4589ba93e1",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 22,
+      "at": "2026-09-22T04:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "willowfen",
+      "action": "record_verified",
+      "artifact_checksum": "d1c9c44ce29d54cea739a42fa0ae7f29bff0052e564e7abcfb574937d9ca3988",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 23,
+      "at": "2026-09-23T05:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "xanthe",
+      "action": "record_verified",
+      "artifact_checksum": "b613ba1a70511e6aa1d38e83bef330a0de07a2cf8053dbd3b5600d9155c7b14a",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 24,
+      "at": "2026-09-24T06:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "yarrowgate",
+      "action": "record_verified",
+      "artifact_checksum": "feed83d352b8afe56d2d0e1595e2e4bbfc60667385bf8f66ca6985dac8e0d06a",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 25,
+      "at": "2026-09-25T07:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "zephyrline",
+      "action": "record_verified",
+      "artifact_checksum": "0d235340312c11a0a91cb45a4d964aa7f7c2a74db6f2602109eecce5fb7dd8d8",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 26,
+      "at": "2026-09-26T08:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "ambercove",
+      "action": "record_verified",
+      "artifact_checksum": "d9057dbdfeb99e271fa4ba2cdf9a2c14ca7e22b53441e76280587078b6b905b2",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 27,
+      "at": "2026-09-27T09:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "basaltine",
+      "action": "record_verified",
+      "artifact_checksum": "df7214825193b9323d44a6460749653e3f35717cd078707329702384bbac46db",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 28,
+      "at": "2026-09-28T01:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "copperfell",
+      "action": "record_verified",
+      "artifact_checksum": "550e68563f90890b4e4ffc5409e92afc82b39c600781914dbe927e4ada95b9af",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 29,
+      "at": "2026-09-01T02:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "driftmoor",
+      "action": "record_verified",
+      "artifact_checksum": "9ce5a14cd55b6992d0ea49521f426c8198b1807c56aa4c7f871b30bd9c9a8444",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 30,
+      "at": "2026-09-02T03:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "elmbourne",
+      "action": "record_verified",
+      "artifact_checksum": "b9086690620fe499500c5efe92cc1074970d2499b4ab61f6e3e04d8457cf4b37",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 31,
+      "at": "2026-09-03T04:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "fennwick",
+      "action": "record_verified",
+      "artifact_checksum": "27099dc75635834b689de0979bbc8155b4447ffc040994812fbe3dcd309d39e2",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 32,
+      "at": "2026-09-04T05:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "glasswing",
+      "action": "record_verified",
+      "artifact_checksum": "943aad9623f2d93e272a8e97fbafbac1db9d183c24178b42eeb62195c069dac5",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 33,
+      "at": "2026-09-05T06:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "bramblewick",
+      "action": "record_verified",
+      "artifact_checksum": "5941a543874c5efbd35e7efaebf380fd4e40d10e47717d5310f0ca5286c4c048",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 34,
+      "at": "2026-09-06T07:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "cinderfold",
+      "action": "record_verified",
+      "artifact_checksum": "54fcae6bf33aeefffa7b1d8ce1c10459d94d13dcd688266bf937ceebc9a8d68f",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 35,
+      "at": "2026-09-07T08:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "duskhollow",
+      "action": "record_verified",
+      "artifact_checksum": "3378569a8f061da18268b4972523a267aadb571ecf80761d85750372737457d2",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 36,
+      "at": "2026-09-08T09:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "evermoor",
+      "action": "record_verified",
+      "artifact_checksum": "a5989bce7dd74b3a54d2068349aef37ca3276a3d6004e9b51ec2d6cc8914913c",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 37,
+      "at": "2026-09-09T01:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "farrowgate",
+      "action": "record_verified",
+      "artifact_checksum": "d829809f0d5b9d52530075ab22b00bbb614523336c5929860459e041b8b81941",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 38,
+      "at": "2026-09-10T02:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "glimmerpost",
+      "action": "record_verified",
+      "artifact_checksum": "dd3166652ad66c366c1569e4ea890e1ed49f75e125376b35117be75b8f2b4c27",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 39,
+      "at": "2026-09-11T03:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "harrowfen",
+      "action": "record_verified",
+      "artifact_checksum": "39cf7ea50f3c43573b3bec521b94471a7201e01518fb443c1939be5dc1fc7546",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 40,
+      "at": "2026-09-12T04:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "inkwell",
+      "action": "record_verified",
+      "artifact_checksum": "b023fe716e684d1ec693cb9e662bf117a18be5dad07de93821ad4b151db0bc87",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 41,
+      "at": "2026-09-13T05:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "jasperwind",
+      "action": "record_verified",
+      "artifact_checksum": "37f07e5858cf765c18e40a8b20c71662c251260158ffe3404e1c0a91fb97bd9b",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 42,
+      "at": "2026-09-14T06:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "kestrelmoor",
+      "action": "record_verified",
+      "artifact_checksum": "1cae8506b7d771496a567b65492bc57d5164003e14bfcdc66e1d8e10bd99f843",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 43,
+      "at": "2026-09-15T07:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "larkspur",
+      "action": "record_verified",
+      "artifact_checksum": "f87676366d5795f7de8217cf72f570d107890a235a45e8547e0e73b829c3729a",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 44,
+      "at": "2026-09-16T08:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "mistvale",
+      "action": "record_verified",
+      "artifact_checksum": "99800733714b1a6d5b71aebc10d270daec2579c8f07191323600f5915e7f4181",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 45,
+      "at": "2026-09-17T09:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "nightjar",
+      "action": "record_verified",
+      "artifact_checksum": "7ecc4549c7ac0ea99b15da143682e2680bd17c913e374ff6954fe0029fdb2ece",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 46,
+      "at": "2026-09-18T01:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "opalridge",
+      "action": "record_verified",
+      "artifact_checksum": "021f90bad7b842ce56807c6cc155718dc120cf70611011ab29f08a627c15d347",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 47,
+      "at": "2026-09-19T02:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "pennant",
+      "action": "record_verified",
+      "artifact_checksum": "cfd89efda50889a76b097fd751a223e88c907d96944ed031fbcfc2c31de00632",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 48,
+      "at": "2026-09-20T03:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "quietwater",
+      "action": "record_verified",
+      "artifact_checksum": "92d127fa3c3989d4cfe3d48352fe4b6fdcee223b476c9f014525b1d22a576b0b",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 49,
+      "at": "2026-09-21T04:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "rookwood",
+      "action": "record_verified",
+      "artifact_checksum": "1601acb6dcc09723de2b2a1f8f1ca28184d645835d58fda38f3fc9aa3294a7a8",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 50,
+      "at": "2026-09-22T05:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "sablefield",
+      "action": "record_verified",
+      "artifact_checksum": "60af72dbf78bb83f402b161fc21fada8057ef1a8b7802d9f6995da9e4c804a2b",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 51,
+      "at": "2026-09-23T06:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "thornbury",
+      "action": "record_verified",
+      "artifact_checksum": "f961e08cbda3ce0e92329c7f186e3c108110652920cb0ac034d2d7e5862055e3",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 52,
+      "at": "2026-09-24T07:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "umbra",
+      "action": "record_verified",
+      "artifact_checksum": "44f22321873e9253b8fbc4d37f29a64d515fdd1c3ce3b8a30b2616dcbd238fec",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 53,
+      "at": "2026-09-25T08:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "vexmoor",
+      "action": "record_verified",
+      "artifact_checksum": "5810c84d3158147b645b5287863d8684273e000f52cfd1acffbf3509d762c7a0",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 54,
+      "at": "2026-09-26T09:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "willowfen",
+      "action": "record_verified",
+      "artifact_checksum": "680a1d9c22ca583649ed2bf2009b0c9081a4ce64f6b953793341bf0e72057d37",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 55,
+      "at": "2026-09-27T01:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "xanthe",
+      "action": "record_verified",
+      "artifact_checksum": "58723ea6ba0f588724a5fb9e3e21df9c2dd7d8a6f9c106073dce95050fa13fe4",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 56,
+      "at": "2026-09-28T02:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "yarrowgate",
+      "action": "record_verified",
+      "artifact_checksum": "72c5be956a50736368213c4bc46afeb566355b8fa7f95775d3f888dfcce0eb24",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 57,
+      "at": "2026-09-01T03:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "zephyrline",
+      "action": "record_verified",
+      "artifact_checksum": "af0ae91aa7a2fb397b1e416f444f60c5197bf863c783972dbeeb818f2e5fb2e6",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 58,
+      "at": "2026-09-02T04:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "ambercove",
+      "action": "record_verified",
+      "artifact_checksum": "272e13a1420aea291e6e7c1d7b4a7e76abd937a516e7476123a491a735756c82",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 59,
+      "at": "2026-09-03T05:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "basaltine",
+      "action": "record_verified",
+      "artifact_checksum": "692ff5d5c455ae9d91a6e747624fb8149383092983a2be9457694df052dffacb",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 60,
+      "at": "2026-09-04T06:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "copperfell",
+      "action": "record_verified",
+      "artifact_checksum": "bb337eac9312e3b303aaa1a428a824b164d75bd0c3e451602f2973cd9f06b710",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 61,
+      "at": "2026-09-05T07:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "driftmoor",
+      "action": "record_verified",
+      "artifact_checksum": "c9d99c8cdc9154330c47940f9c20b1589dab95ed47e896ac887bab91a2a02f53",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 62,
+      "at": "2026-09-06T08:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "elmbourne",
+      "action": "record_verified",
+      "artifact_checksum": "576e44440c2184451d7351a57916a66e80c682276f12168544fe4b5519125706",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 63,
+      "at": "2026-09-07T09:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "fennwick",
+      "action": "record_verified",
+      "artifact_checksum": "4fbc40972032e1a554e19500f2acf788617ca34532ed11347fdd87f40be8ee7b",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 64,
+      "at": "2026-09-08T01:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "glasswing",
+      "action": "record_verified",
+      "artifact_checksum": "9840d41180cbc060f835d3b9056e8acdeca1ca8c345114c9b15ecd96c930e312",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 65,
+      "at": "2026-09-09T02:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "bramblewick",
+      "action": "record_verified",
+      "artifact_checksum": "fc0aa8a7b2f763884265001a6cc1736a132551199305352833446e866b4bedf3",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 66,
+      "at": "2026-09-10T03:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "cinderfold",
+      "action": "record_verified",
+      "artifact_checksum": "f0ffa6ee5ded2d90958ec2977db991314baa455c3f32fa6d204256167f793123",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 67,
+      "at": "2026-09-11T04:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "duskhollow",
+      "action": "record_verified",
+      "artifact_checksum": "f85efd3d35681b0062916a53fc4750a2283ce2c83f6c55a8f734e4e3e68c003c",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 68,
+      "at": "2026-09-12T05:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "evermoor",
+      "action": "record_verified",
+      "artifact_checksum": "50538bc1ec34f4d4914b0bf285c8305dc1943354d8c69c703e4f9b1fb9167ca1",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 69,
+      "at": "2026-09-13T06:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "farrowgate",
+      "action": "record_verified",
+      "artifact_checksum": "951a4c768583b1b497dcb430056899a600f06881a2f750b552db14e1c2b9b038",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 70,
+      "at": "2026-09-14T07:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "glimmerpost",
+      "action": "record_verified",
+      "artifact_checksum": "7000c1851a2b1017510f174cd5663f108bb296209997fb7f3412b3ee8e695b5d",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 71,
+      "at": "2026-09-15T08:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "harrowfen",
+      "action": "record_verified",
+      "artifact_checksum": "be91327156ae318e8c1c322869e3eeef7945e0e5afb80067908ffebff913aa11",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 72,
+      "at": "2026-09-16T09:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "inkwell",
+      "action": "record_verified",
+      "artifact_checksum": "b3d195cf3533d571922414abdde0df38a7e230293b5f9f0be48f995230fc2a3a",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 73,
+      "at": "2026-09-17T01:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "jasperwind",
+      "action": "record_verified",
+      "artifact_checksum": "5a5e30fb3376f5d05a110867b8c46a4591820a58d997ed3209986cc39d5c1264",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 74,
+      "at": "2026-09-18T02:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "kestrelmoor",
+      "action": "record_verified",
+      "artifact_checksum": "2f5f85fa014025d42c5f407b4fb01d7ca814c492099c1da31f3fc0bdd5b42783",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 75,
+      "at": "2026-09-19T03:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "larkspur",
+      "action": "record_verified",
+      "artifact_checksum": "d7a7fd4a23a7e02c8bb43d464ca468caeb6124a3c5325f3ae05339b76b9e7f26",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 76,
+      "at": "2026-09-20T04:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "mistvale",
+      "action": "record_verified",
+      "artifact_checksum": "80d8f55b28fcf1ce6fc35eb6fc696a053e08eb897c9e3ad8037cf4b8ba3a2aa8",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 77,
+      "at": "2026-09-21T05:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "nightjar",
+      "action": "record_verified",
+      "artifact_checksum": "ad08797e73887d20558c0a036c2c9d488f1886055499f225c3d6d11dd9a35586",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 78,
+      "at": "2026-09-22T06:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "opalridge",
+      "action": "record_verified",
+      "artifact_checksum": "71476b33e02b1de158d534e923ea8f6b175c9a0c7978a995f4d4a35be5e0c118",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 79,
+      "at": "2026-09-23T07:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "pennant",
+      "action": "record_verified",
+      "artifact_checksum": "556c3164b0377a9a60893cf20b84100f293b8e0ab5b68a0da2e0033ddb4dff8f",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    },
+    {
+      "seq": 80,
+      "at": "2026-09-24T08:00:00Z",
+      "actor": "release-audit-bot",
+      "project_key": "quietwater",
+      "action": "record_verified",
+      "artifact_checksum": "0ee04bcac4440578024cb8ab98c3e2a6526f8fb8d3fb67d9ab450d9dc09e4f75",
+      "note": "quarterly audit trail entry; retained for 24 months."
+    }
+  ]
+}
